@@ -1,4 +1,4 @@
-module github.com/291700351/base/code
+module github.com/291700351/base/codes
 
 go 1.22.1
 
